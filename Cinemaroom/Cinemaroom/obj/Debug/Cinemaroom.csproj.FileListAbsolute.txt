@@ -39,3 +39,8 @@ E:\EPU Project\Form.net\Cinemaroom\Cinemaroom\bin\Debug\es\DevExpress.XtraEditor
 E:\EPU Project\Form.net\Cinemaroom\Cinemaroom\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
 E:\EPU Project\Form.net\Cinemaroom\Cinemaroom\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
 E:\EPU Project\Form.net\Cinemaroom\Cinemaroom\obj\Debug\Cinemaroom.exe.licenses
+E:\EPU Project\Form.net\Cinemaroom\Cinemaroom\bin\Debug\Data.dll
+E:\EPU Project\Form.net\Cinemaroom\Cinemaroom\bin\Debug\EntityFramework.dll
+E:\EPU Project\Form.net\Cinemaroom\Cinemaroom\bin\Debug\Data.pdb
+E:\EPU Project\Form.net\Cinemaroom\Cinemaroom\bin\Debug\EntityFramework.xml
+E:\EPU Project\Form.net\Cinemaroom\Cinemaroom\obj\Debug\Cinemaroom.Design.Main.resources

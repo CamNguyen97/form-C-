@@ -1,0 +1,10 @@
+E:\EPU Project\Form.net\Cinemaroom\Data\bin\Debug\Data.dll.config
+E:\EPU Project\Form.net\Cinemaroom\Data\bin\Debug\Data.dll
+E:\EPU Project\Form.net\Cinemaroom\Data\bin\Debug\Data.pdb
+E:\EPU Project\Form.net\Cinemaroom\Data\bin\Debug\EntityFramework.dll
+E:\EPU Project\Form.net\Cinemaroom\Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\EPU Project\Form.net\Cinemaroom\Data\bin\Debug\EntityFramework.xml
+E:\EPU Project\Form.net\Cinemaroom\Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\EPU Project\Form.net\Cinemaroom\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+E:\EPU Project\Form.net\Cinemaroom\Data\obj\Debug\Data.dll
+E:\EPU Project\Form.net\Cinemaroom\Data\obj\Debug\Data.pdb
