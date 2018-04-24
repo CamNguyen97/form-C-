@@ -44,3 +44,10 @@ E:\EPU Project\Form.net\Cinemaroom\Cinemaroom\bin\Debug\EntityFramework.dll
 E:\EPU Project\Form.net\Cinemaroom\Cinemaroom\bin\Debug\Data.pdb
 E:\EPU Project\Form.net\Cinemaroom\Cinemaroom\bin\Debug\EntityFramework.xml
 E:\EPU Project\Form.net\Cinemaroom\Cinemaroom\obj\Debug\Cinemaroom.Design.Main.resources
+E:\EPU Project\Form.net\Cinemaroom\Cinemaroom\bin\Debug\DevExpress.XtraBars.v15.1.dll
+E:\EPU Project\Form.net\Cinemaroom\Cinemaroom\bin\Debug\DevExpress.XtraBars.v15.1.xml
+E:\EPU Project\Form.net\Cinemaroom\Cinemaroom\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+E:\EPU Project\Form.net\Cinemaroom\Cinemaroom\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+E:\EPU Project\Form.net\Cinemaroom\Cinemaroom\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+E:\EPU Project\Form.net\Cinemaroom\Cinemaroom\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+E:\EPU Project\Form.net\Cinemaroom\Cinemaroom\obj\Debug\Cinemaroom.Design.Partial.Home.resources
